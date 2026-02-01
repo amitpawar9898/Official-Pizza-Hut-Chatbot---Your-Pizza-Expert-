@@ -6,6 +6,9 @@ pizza-related queries. It is designed as a beginner-friendly academic mini proje
 
 ---
 
+RUN THIS PROJECT LINK : https://0abd31a4a8f0e09ebf.gradio.live
+
+
 ## 🎯 Purpose of the Project
 
 - To demonstrate chatbot development using Python
